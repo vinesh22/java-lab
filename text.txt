@@ -1,0 +1,4 @@
+eno , ename , emodile
+1210 , naruto , 78987546
+1234 , sasuke , 75648964
+1245 , itachi , 799654213
